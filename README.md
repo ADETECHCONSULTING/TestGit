@@ -1,3 +1,3 @@
 # Ceci est un repo test
-# git clone mon projet 
+# gi clone mon projet 
 # hello test rebase
